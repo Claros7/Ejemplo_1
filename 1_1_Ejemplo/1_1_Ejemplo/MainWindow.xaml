@@ -10,8 +10,11 @@
         <TextBlock>
             Primer Comentario
         </TextBlock>
-        <Button Content="Aceptar" Background="Crimson" Width="150" Height="100"/>
-
+        <Button Background="Crimson" Width="150" Height="100">
+            <StackPanel>
+                <Image Source="/Imagenes/Logo Canal Sin Fondo.png"/>
+            </StackPanel>
+        </Button>
 
     </Grid>
 </Window>
