@@ -10,6 +10,8 @@
         <TextBlock>
             Primer Comentario
         </TextBlock>
-        
+        <Button Content="Aceptar" Background="Crimson" Width="150" Height="100">
+        </Button>
+
     </Grid>
 </Window>
